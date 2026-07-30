@@ -52,7 +52,7 @@
 
 ### BPMN-диаграмма
 
-![Процесс регистрации оборудования](./equipment_registration.png)
+![Процесс регистрации оборудования](./equipment_registration.drawio.png)
 
 ---
 
@@ -102,7 +102,7 @@
 
 ### BPMN-диаграмма
 
-![Процесс передачи оборудования](./equipment_transfer.png)
+![Процесс передачи оборудования](./equipment_transfer.drawio.png)
 
 ---
 
